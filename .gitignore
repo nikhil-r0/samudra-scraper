@@ -1,0 +1,5 @@
+.venv
+*_auth_state.json
+debug
+pictures
+screenshots

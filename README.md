@@ -1,4 +1,5 @@
 **Samudra Social Media Scraper**
+
 This project contains a set of Python scripts for scraping post data from X.com (formerly Twitter) and Instagram. The scrapers use Playwright to control a browser, enabling them to bypass simple bot detection and scrape content as a logged-in user.
 
 **Features**
